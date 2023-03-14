@@ -6,4 +6,4 @@ football squad in a nice interface similar to the FIFA game
 
 ## Screenshot
 
-![screenshot](./public/screenshots/screenshot1.png)
+![screenshot](./public/screenshots/Screenshot1.png)
